@@ -145,6 +145,7 @@
       "Alex Vanover",
       "Betaflight",
       "BMSThomas",
+      "CaptShoe",
       "ctzsnooze",
       "Directory",
       "DusKing1 (Hugo Chiang), Pitronic",
@@ -906,6 +907,19 @@
         "MultiGP"
       ],
       "author": "BMSThomas",
+      "priority": 10000
+    },
+    {
+      "fullPath": "presets/4.3/rates/CaptShoe.txt",
+      "hash": "2ae90cf6f2b0a39f748ba6e0f2c7729e97273e3b884d6daac76868c949a8bcda",
+      "title": "CaptShoe rates",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "RATES",
+      "status": "COMMUNITY",
+      "keywords": [],
+      "author": "CaptShoe",
       "priority": 10000
     },
     {
